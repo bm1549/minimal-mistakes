@@ -36,7 +36,7 @@ anecdotal:
 sign_up:
   - title: "What are you waiting for?"
     excerpt: "Sign up now to instantly start talking to Davids in your area!"
-    url: "/sign-up/"
+    url: "https://davidmeet.auth.us-east-1.amazoncognito.com/"
     btn_label: "Sign Up"
     btn_class: "btn--primary"
 ---
