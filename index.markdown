@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/matheus-ferrero-TkrRvwxjb_8-unsplash.jpg
   actions:
     - label: "Sign Up"
-      url: "https://davidmeet.auth.us-east-1.amazoncognito.com/signup?client_id=2prdu7kt5rub1c28caunh865tb&response_type=token&scope=aws.cognito.signin.user.admin+email+openid+phone+profile&redirect_uri=https://www.davidmeet.com/thankyou"
+      url: "https://auth.davidmeet.com/signup?client_id=2prdu7kt5rub1c28caunh865tb&response_type=token&scope=aws.cognito.signin.user.admin+email+openid+phone+profile&redirect_uri=https://www.davidmeet.com/thankyou"
 excerpt: "At DavidMeet, we know what really drives compatibility. It's sharing what's most important with the other person: having the same first name."
 great_friends:
   - image_path: /assets/images/helena-lopes-PGnqT0rXWLs-unsplash.jpg
@@ -36,7 +36,7 @@ anecdotal:
 sign_up:
   - title: "What are you waiting for?"
     excerpt: "Sign up now to instantly start talking to Davids in your area!"
-    url: "https://davidmeet.auth.us-east-1.amazoncognito.com/signup?client_id=2prdu7kt5rub1c28caunh865tb&response_type=token&scope=aws.cognito.signin.user.admin+email+openid+phone+profile&redirect_uri=https://www.davidmeet.com/thankyou"
+    url: "https://auth.davidmeet.com/signup?client_id=2prdu7kt5rub1c28caunh865tb&response_type=token&scope=aws.cognito.signin.user.admin+email+openid+phone+profile&redirect_uri=https://www.davidmeet.com/thankyou"
     btn_label: "Sign Up"
     btn_class: "btn--primary"
 ---
