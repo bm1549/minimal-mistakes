@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Log In"
-    url: https://davidmeet.auth.us-east-1.amazoncognito.com/
+    url: https://davidmeet.auth.us-east-1.amazoncognito.com/login?client_id=2prdu7kt5rub1c28caunh865tb&response_type=token&scope=aws.cognito.signin.user.admin+email+openid+phone+profile&redirect_uri=https://www.davidmeet.com/thankyou
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
