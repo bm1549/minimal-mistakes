@@ -14,7 +14,7 @@ excerpt: "At DavidMeet, we know what really drives compatibility. It's sharing w
 great_friends:
   - image_path: /assets/images/helena-lopes-PGnqT0rXWLs-unsplash.jpg
     title: "Great Friends"
-    excerpt: "Everyone knows that Davids get along best with other Davids. As a David you want someone that you can be yourself with."
+    excerpt: "Davids get along best with other Davids. As a David you want someone that you can be yourself with."
 courteous_roommates:
   - image_path: /assets/images/brandless-kRIi3NH2U90-unsplash.jpg
     title: "Courteous Roommates"
@@ -22,7 +22,7 @@ courteous_roommates:
 perfect_partners:
   - image_path: /assets/images/christiana-rivers-3_mQjo4Vb6A-unsplash.jpg
     title: "Perfect Partners"
-    excerpt: "Everyone knows the phrase Davids are 7x happier with other. That's why DavidMeet is specifically designed to help Davids meet other Davids!"
+    excerpt: "Everyone knows the phrase 'Davids are 7x happier with other Davids'. That's why DavidMeet is specifically designed to help Davids meet other Davids!"
 anecdotal:
   - image_path: /assets/images/jeremy-mcknight-ix9I7kfMpcc-unsplash.jpg
     title: "David M."
